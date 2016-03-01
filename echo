@@ -1,0 +1,13 @@
+Started
+F
+
+Failures:
+1) Feature with Node is correct load
+  Message:
+    Error: No load XD
+  Stack:
+    Error: No load XD
+        at Object.<anonymous> (c:\Users\Jonathan\Documents\feature.js\tests\testWithNodeSpec.js:6:9)
+
+1 spec, 1 failure
+Finished in 0.019 seconds

@@ -138,6 +138,14 @@ $ gulp build
 ```
 
 
+## Test with NodeJS
+
+```bash
+JASMINE_CONFIG_PATH=tests/support/jasmine.json jasmine
+
+JASMINE_CONFIG_PATH=tests/support/jasmine.json nodemon -x 'jasmine' -w tests/
+```
+
 
 ## Tested on the following platforms
 
